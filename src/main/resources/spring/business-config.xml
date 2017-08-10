@@ -26,6 +26,8 @@
     <tx:annotation-driven/>
 
 
+
+
     <!-- ==================		 3 Profiles to choose from 			===================
                                     - jdbc (uses Spring" JdbcTemplate)
                                     - jpa
